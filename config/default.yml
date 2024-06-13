@@ -1,5 +1,10 @@
 # Common configuration.
 
+Rails/ClassLevelRelativeDate:
+  Description: 'TODO: Write a description of the cop.'
+  Enabled: pending
+  VersionAdded: '<<next>>'
+
 inherit_mode:
   merge:
     - Exclude
